@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-  I’m a Postdoctoral Researcher at Stanford University, working with Professor <a href="https://web.stanford.edu/~bohg/" target="_blank">Jeannette Bohg</a>. I obtained my PhD from the <a href="https://www.kth.se/en" target="_blank">KTH Royal Institute of Technology</a> under the supervision of <a href="https://www.csc.kth.se/~danik/" target="_blank">Professor Danica Kragic</a>. Before joining Stanford, I was a research intern at <a href="https://europe.naverlabs.com/" target="_blank">Naver Labs Europe</a>, where I worked with the Spatial AI team.
+  I’m a Postdoctoral Researcher at Stanford University, working with Professor <a href="https://web.stanford.edu/~bohg/" target="_blank">Jeannette Bohg</a>. I obtained my PhD from the <a href="https://www.kth.se/en" target="_blank">KTH Royal Institute of Technology</a> under the supervision of Professor <a href="https://www.csc.kth.se/~danik/" target="_blank">Danica Kragic</a>. Before joining Stanford, I had the pleasure of being part of the <a href="https://sites.google.com/view/rsspioneers2025/home" target="_blank">RSS Pioneer</a> cohort, and a research intern at <a href="https://europe.naverlabs.com/" target="_blank">Naver Labs Europe</a>, where I worked with the Spatial AI team.
   <!-- , in the Division of <a href="https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439" target="_blank">Robotics, Perception and Learning (RPL)</a> -->
 
 
