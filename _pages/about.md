@@ -6,8 +6,9 @@ permalink: /
 
 profile:
   align: right
-  image: albi_photo.png
-  image_circular: false # crops the image to make it circular
+  # image: albi_photo.png
+  image: alberta.jpg
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>KTH Royal Institute of Technology  </p>
   #   <p>Lindstedtsvägen 24, Room 1304</p>
@@ -19,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-  I'm a fourth-year doctoral student at <a href="https://www.kth.se/en" target="_blank">KTH Royal Institute of Technology</a>  under the supervision of <a href="https://www.csc.kth.se/~danik/" target="_blank"> Professor Danica Kragic </a>. Currently, I am an intern at <a href="https://europe.naverlabs.com/" target="_blank"> Naver Labs Europe </a>, working with the Spatial AI team.
+  I’m a Postdoctoral Researcher at Stanford University, working with Professor <a href="https://web.stanford.edu/~bohg/" target="_blank">Jeannette Bohg</a>. I obtained my PhD from the <a href="https://www.kth.se/en" target="_blank">KTH Royal Institute of Technology</a> under the supervision of <a href="https://www.csc.kth.se/~danik/" target="_blank">Professor Danica Kragic</a>. Before joining Stanford, I was a research intern at <a href="https://europe.naverlabs.com/" target="_blank">Naver Labs Europe</a>, where I worked with the Spatial AI team.
   <!-- , in the Division of <a href="https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439" target="_blank">Robotics, Perception and Learning (RPL)</a> -->
 
 
@@ -33,10 +34,12 @@ My research focuses on advancing Physical AI by integrating structured world mod
 
 ### Professional Service
 
+- **Co-Organizer of RINO, CoRL 2025 workshop** on [Beyond Rigid Worlds: Representing and Interacting with Non-Rigid Objects Workshop](https://rino-workshop.github.io/)
+- **Co-Organizer of LSRW, CoRL 2025 workshop** on [Learning to Simulate Robot Worlds](https://simulatingrobotworlds.github.io/)
+- **Co-Organizer of SWOMO, RSS 2025 workshop** on [Structured World Models for Robotic Manipulation](https://swomo-rss.github.io//)
+- **Co-Organizer of ICRA, 2025 workshop** on [Reflections on Representations and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2025/)
+- **Co-Organizer of ICRA, 2024 workshop** on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2024/)
 - **PhD Representative** - Member of the EECS PhD school council 2023 - 2025
-- **Co-Organizer of ICRA 2024 workshop** on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2024/)
-- **Co-Organizer of ICRA 2025 workshop** on [Reflections on Representations and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2025/)
-- **Co-Organizer of SWOMO RSS 2025 workshop** on [Structured World Models for Robotic Manipulation](https://swomo-rss.github.io//)
 
 ---
 
@@ -61,14 +64,15 @@ My research focuses on advancing Physical AI by integrating structured world mod
 Please check my calendar to see if I am available prior to suggesting a meeting time.
 {% endcomment %}
 
-**Email**: albertal@kth.se
+**Email**: alberta@stanford.edu
 
-**Office**: Lindstedtsvägen 24, Room 305.
+**Office**: 353 Jane Stanford Way, Room 212.
 
 **Address**  
-KTH Royal Institute of Technology  
-Division of Robotics, Perception, and Learning (RPL)  
-School of Electrical Engineering and Computer Science  
-Lindstedtsvägen 24, 3rd floor, SE-100 44 Stockholm, Sweden
+   <a href="https://iprl.stanford.edu/" target="_blank">Interactive Perception and Robot Learning Lab   </a>  
+  Computer Science Department  
+  Stanford University  
+  353 Jane Stanford Way  
+  Stanford, CA 94305
 
 ---
