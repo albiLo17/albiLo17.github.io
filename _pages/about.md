@@ -34,7 +34,7 @@ My research focuses on advancing Physical AI by integrating structured world mod
 
 ### Professional Service
 
-- **Co-Organizer of RINO, CoRL 2025 workshop** on [Beyond Rigid Worlds: Representing and Interacting with Non-Rigid Objects Workshop](https://rino-workshop.github.io/)
+- **Co-Organizer of RINO, CoRL 2025 workshop** on [Beyond Rigid Worlds: Representing and Interacting with Non-Rigid Objects](https://rino-workshop.github.io/)
 - **Co-Organizer of LSRW, CoRL 2025 workshop** on [Learning to Simulate Robot Worlds](https://simulatingrobotworlds.github.io/)
 - **Co-Organizer of SWOMO, RSS 2025 workshop** on [Structured World Models for Robotic Manipulation](https://swomo-rss.github.io//)
 - **Co-Organizer of ICRA, 2025 workshop** on [Reflections on Representations and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2025/)
