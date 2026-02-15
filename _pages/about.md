@@ -34,6 +34,9 @@ My research focuses on advancing Physical AI by integrating structured world mod
 
 ### Professional Service
 
+- **Co-Organizer of the ICRA 2026** [LeHome Challenge: 1st Simulation-Driven Competition on Deformable Object Manipulation ](https://lehome-challenge.com/)
+- **Co-Organizer of Real2Sim2Real, ICRA 2026 workshop** on [Generative Digital Twins for Real2Sim and Sim2Real Transfer in Robotics](https://awesomedigitaltwin.github.io/2026_ICRA.html)
+- **Co-Organizer of RSS 2026 workshop** on [RSS Pioneers](https://sites.google.com/view/rsspioneers2026/)
 - **Co-Organizer of RINO, CoRL 2025 workshop** on [Beyond Rigid Worlds: Representing and Interacting with Non-Rigid Objects](https://rino-workshop.github.io/)
 - **Co-Organizer of LSRW, CoRL 2025 workshop** on [Learning to Simulate Robot Worlds](https://simulatingrobotworlds.github.io/)
 - **Co-Organizer of SWOMO, RSS 2025 workshop** on [Structured World Models for Robotic Manipulation](https://swomo-rss.github.io//)
