@@ -16,8 +16,9 @@ profile:
   #   <p>SE-100 44 Stockholm, Sweden </p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes the "latest work" list of papers marked as "selected={true}" (used for latest work, not just accepted/published ones)
 social: true # includes social icons at the bottom of the page
+contact: true # includes the contact block after latest work and before social links
 ---
 
   I’m a Postdoctoral Researcher at Stanford University, working with Professor <a href="https://web.stanford.edu/~bohg/" target="_blank">Jeannette Bohg</a>. I obtained my PhD from the <a href="https://www.kth.se/en" target="_blank">KTH Royal Institute of Technology</a> under the supervision of Professor <a href="https://www.csc.kth.se/~danik/" target="_blank">Danica Kragic</a>. Before joining Stanford, I had the pleasure of being part of the <a href="https://sites.google.com/view/rsspioneers2025/home" target="_blank">RSS Pioneer</a> cohort, and a research intern at <a href="https://europe.naverlabs.com/" target="_blank">Naver Labs Europe</a>, where I worked with the Spatial AI team.
@@ -26,56 +27,29 @@ social: true # includes social icons at the bottom of the page
 
 <!-- <p style="text-align: justify;"> -->
 <!-- My research focuses on developing algorithms for intelligent agents capable of adaptive manipulation in human environments. I explore object-centric world models for inference, planning, and reasoning, alongside key areas such as object characterization, multimodal interactive perception, and learning of geometric and semantic representations. Recently, I have been curious about how to improve the physical and semantic reasoning of foundation models for deformable objects, with the aim of equipping agents to handle complex, variable tasks in real-world scenarios. -->
-My research focuses on advancing Physical AI by integrating structured world models and multimodal perception to enable robots to perform complex tasks in unstructured, dynamic environments. I am particularly interested in leveraging the interplay between perception and modeling to learn representations of physical properties of real-world objects, embedding physics-based priors into learning systems, and exploring generative and hybrid approaches to improve the generalization and sample efficiency of current Physical AI. My vision is to develop intelligent robotic systems capable of long-horizon autonomy and robust assistive capabilities to support humans in real-world scenarios.
+My research focuses on advancing Physical AI by combining structured world models with multimodal perception to help robots adapt their behavior to changing conditions and human requirements. I am particularly interested in how robots can control and adapt existing skills through language and spatial goals, predict whether their outcomes meet task requirements, and learn from failure when they do not. This involves learning representations of the physical properties of real-world objects, embedding physics-based priors into learning systems, and exploring generative and hybrid approaches to improve generalization and sample efficiency. My vision is to develop intelligent robotic systems capable of long-horizon autonomy and robust, adaptive assistance to support humans in real-world scenarios.
 <!-- </p> -->
  <!-- I envision a future where robots are ubiquitous and capable of complex reasoning and manipulation tasks in unstructured, highly-variable environments. My research lies at the intersection of robotics and machine learning, focusing on the adaptive manipulation of Cloth-like Deformable Objects (CDO). This under-explored area requires novel approaches for the characterization, perception, modeling, and control of CDOs. I develop methods to characterize and perceive these objects, learning representations that account for their physical properties and advancing generalization techniques for learning-based dynamics and planning suitable for robotic manipulation. Additionally, I am currently exploring the use of foundation models to enhance the perception and manipulation of cloth-like objects, aiming to equip robots with enhanced adaptive skills. -->
 
 ---
 
-### Professional Service
+### Workshop and Challenges
 
-- **Co-Organizer of the ICRA 2026** [LeHome Challenge: 1st Simulation-Driven Competition on Deformable Object Manipulation ](https://lehome-challenge.com/)
-- **Co-Organizer of Real2Sim2Real, ICRA 2026 workshop** on [Generative Digital Twins for Real2Sim and Sim2Real Transfer in Robotics](https://awesomedigitaltwin.github.io/2026_ICRA.html)
-- **Co-Organizer of RSS 2026 workshop** on [RSS Pioneers](https://sites.google.com/view/rsspioneers2026/)
-- **Co-Organizer of RINO, CoRL 2025 workshop** on [Beyond Rigid Worlds: Representing and Interacting with Non-Rigid Objects](https://rino-workshop.github.io/)
-- **Co-Organizer of LSRW, CoRL 2025 workshop** on [Learning to Simulate Robot Worlds](https://simulatingrobotworlds.github.io/)
-- **Co-Organizer of SWOMO, RSS 2025 workshop** on [Structured World Models for Robotic Manipulation](https://swomo-rss.github.io//)
-- **Co-Organizer of ICRA, 2025 workshop** on [Reflections on Representations and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2025/)
-- **Co-Organizer of ICRA, 2024 workshop** on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2024/)
+- **Workshop**: [Do Robots Need World Models?](https://do-robots-need-world-models.github.io/) — CoRL 2026, Co-Organizer
+- **Challenge**: [LeHome Challenge: 1st Simulation-Driven Competition on Deformable Object Manipulation](https://lehome-challenge.com/) — ICRA 2026, Co-Organizer
+- **Workshop**: [RSS Pioneers](https://sites.google.com/view/rsspioneers2026/) — RSS 2026, Co-Organizer
+- **Workshop**: [Generative Digital Twins for Real2Sim and Sim2Real Transfer in Robotics](https://awesomedigitaltwin.github.io/2026_ICRA.html) — ICRA 2026, Co-Organizer
+- **Workshop**: [Sixth workshop on Representing and Manipulating Deformable Objects (DOM-R3)](https://deformable-workshop.github.io/iros2026/) — IROS 2026, Co-Organizer
+- **Workshop**: [Robot World Models](https://robot-worldmodels.github.io/index.html) — RSS 2026, Co-Organizer
+- **Workshop**: [Human-centric Mobile Manipulation](https://adacompnus.github.io/human-centric-mobile-manipulation/) — RSS 2026, Co-Organizer
+- **Workshop**: [Learning to Simulate Robot Worlds (LSRW)](https://simulatingrobotworlds.github.io/) — CoRL 2025, Co-Organizer
+- **Workshop**: [Beyond Rigid Worlds: Representing and Interacting with Non-Rigid Objects (RINO)](https://rino-workshop.github.io/) — CoRL 2025, Co-Organizer
+- **Workshop**: [Structured World Models for Robotic Manipulation (SWOMO)](https://swomo-rss.github.io//) — RSS 2025, Co-Organizer
+- **Workshop**: [Fifth workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2025/) — ICRA 2025, Co-Organizer
+- **Workshop**: [Fourth workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2024/) — ICRA 2024, Co-Organizer
 - **PhD Representative** - Member of the EECS PhD school council 2023 - 2025
-
----
-
-### Teaching Assistant
-
-2022-2024: [Image Analysis and Computer Vision (DD2423)](https://www.kth.se/social/course/DD2423/)  
-2022-2024: [Introduction to Robotics (DD2410)](https://www.kth.se/social/course/DD2410/)
-
----
-
-### Master Thesis
-
-- Noel Johansson - *Benchmarking Sentence-Transformers for Duplicate Bug Detection on Novel Dataset* - 2024, M.Sc. in Computer Science, KTH Royal Institute of Technology
-- Mark Bergrahm - *Explanation Methods on a Partially Trained Model*- 2024, M.Sc. in Computer Science, KTH Royal Institute of Technology
-
----
-
-### Contact
 
 {% comment %}
 **Calendar**: [Free/busy Calendar](https://calendar.google.com/calendar/embed?src=zerickso%40andrew.cmu.edu&ctz=America%2FNew_York&mode=WEEK)  
 Please check my calendar to see if I am available prior to suggesting a meeting time.
 {% endcomment %}
-
-**Email**: alberta@stanford.edu
-
-**Office**: 353 Jane Stanford Way, Room 212.
-
-**Address**  
-   <a href="https://iprl.stanford.edu/" target="_blank">Interactive Perception and Robot Learning Lab   </a>  
-  Computer Science Department  
-  Stanford University  
-  353 Jane Stanford Way  
-  Stanford, CA 94305
-
----

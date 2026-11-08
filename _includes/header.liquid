@@ -108,6 +108,14 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+
+          <!-- CV (links directly to the PDF, no dedicated page) -->
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/assets/pdf/CV_2026.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+              cv
+            </a>
+          </li>
+
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
